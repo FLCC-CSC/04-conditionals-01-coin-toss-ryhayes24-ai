@@ -14,7 +14,7 @@ outcomes = ["Heads", "Tails"]
 
 coin_flip = random.choice(outcomes)
 
-print(f"===== Coin Flipper ===== \n{coin_flip}")
+print(f"===== Coin Flipper =====\n{coin_flip}")
 
 
 
